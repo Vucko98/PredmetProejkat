@@ -1,0 +1,13 @@
+1. Na windows operativnom sistemu instalirajte NodeJs pomocu pomocu oficialnog instalera:
+https://nodejs.org/dist/v18.14.0/node-v18.14.0-x64.msi
+
+2. Otvorite terminal u ovom (projekat) folderu.
+
+3. U terminalu se skripte pokrecu komandom node ime_skripte, npr:
+node Example4
+
+Example5 se treba pokrenuti dva puta da bi dao ispis.
+Korišćena je asinhrona funkcija ućitavanja i upisa velike količine podataka,
+pa u prvom pokretanju se izvrše SPARQL upiti nad bazom pre nego što se podaci unesu.
+
+

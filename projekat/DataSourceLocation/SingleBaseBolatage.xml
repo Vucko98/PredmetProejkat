@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF 
+  xmlns:cim="http://iec.ch/TC57/CIM100#" 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xml:base="http://example.org/here/"
+>
+
+<cim:BaseVoltage rdf:ID="_9FA9">
+  <cim:IdentifiedObject.mRID>_9FA9</cim:IdentifiedObject.mRID>
+  <cim:IdentifiedObject.name>BaseV_4.1600</cim:IdentifiedObject.name>
+  <cim:BaseVoltage.nominalVoltage>4160</cim:BaseVoltage.nominalVoltage>
+</cim:BaseVoltage>
+
+</rdf:RDF>
